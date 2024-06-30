@@ -1,0 +1,1 @@
+This Python chatbot leverages NLTK, scikit-learn, and JSON to process text inputs and provide responses based on predefined intents. It uses logistic regression for intent classification and includes fallback mechanisms for handling unknown queries. The project also demonstrates integration with external APIs for additional functionalities.
